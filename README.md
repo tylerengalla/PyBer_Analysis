@@ -5,8 +5,10 @@ Using Python and Pandas, we needed to create a summary DataFrame of the ride-sha
 
 # Results
 
-![](analysis/pyber_summary.png)
+Here is the breakdown of how city types compare to each other in terms of Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver. 
+![](/analysis/pyber_summary.png)
 
-![](analysis/pyber_fare_summary.png)
+Shown here is a line graph showing us the comparison of the city types in terms of Total Fare of rides they received, broken down by weekly increments in the time frame of January through April. 
+![](/analysis/pyber_fare_summary.png)
 
 # Summary
