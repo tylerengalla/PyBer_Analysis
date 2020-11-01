@@ -5,8 +5,8 @@ Using Python and Pandas, we needed to create a summary DataFrame of the ride-sha
 
 # Results
 
-![](/pyber_summary.png)
+![](analysis/pyber_summary.png)
 
-![](/pyber_fare_summary.png)
+![](analysis/pyber_fare_summary.png)
 
 # Summary
